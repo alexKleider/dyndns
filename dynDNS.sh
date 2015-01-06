@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ####### usr/local/bin/dynDNS.sh #################
-# This script is in place of a dynamic DNS server.
+# This script is in place of a dynamic DNS daemon.
 #
 # It goes out to the internet to discover the current IP address
 # as seen from the internet. i.e. the routers external interface.
